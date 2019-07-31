@@ -1,5 +1,6 @@
 # Vidverto
 https://vidverto.lviv.ua
+https://vidverto.org.ua/
 
 ### description
 
